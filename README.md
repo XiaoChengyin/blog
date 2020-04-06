@@ -7,3 +7,4 @@
 - [高性能 JavaScript 读书笔记](https://github.com/XiaoChengyin/blog/issues/5)
 - [Promise 原理](https://github.com/XiaoChengyin/blog/issues/6)
 - [WEB 安全入门](https://github.com/XiaoChengyin/blog/issues/7)
+- [Javascript 继承](https://github.com/XiaoChengyin/blog/issues/8)
