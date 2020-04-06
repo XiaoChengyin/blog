@@ -6,3 +6,4 @@
 - [Promise 和 async/await](https://github.com/XiaoChengyin/blog/issues/4)
 - [高性能 JavaScript 读书笔记](https://github.com/XiaoChengyin/blog/issues/5)
 - [Promise 原理](https://github.com/XiaoChengyin/blog/issues/6)
+- [WEB安全入门](https://github.com/XiaoChengyin/blog/issues/7)
