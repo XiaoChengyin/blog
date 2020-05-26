@@ -8,3 +8,4 @@
 - [Promise 原理](https://github.com/XiaoChengyin/blog/issues/6)
 - [WEB 安全入门](https://github.com/XiaoChengyin/blog/issues/7)
 - [Javascript 继承](https://github.com/XiaoChengyin/blog/issues/8)
+- [HTTP 知识点总结](https://github.com/XiaoChengyin/blog/issues/9)
